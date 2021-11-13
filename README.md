@@ -1,5 +1,4 @@
-# Hello there👋
- I'm Kaveeja Marasinghe😁
-
- [Click Here](https://kaveeja-n.github.io/kaveeja/)  to view my newly published website😊
- 
+# Kaveeja
+## I'm Kaveeja Marasinghe 😁
+This is the GitHub repository for my Personal Webpage
+[Click here](https://kaveeja-n.github.io/kaveeja/) to View the Website 
